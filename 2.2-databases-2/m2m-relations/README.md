@@ -130,5 +130,5 @@ python manage.py loaddata articles.json
 Запустить отладочный веб-сервер проекта:
 
 ```bash
-python manage.py runserver
+
 ```
